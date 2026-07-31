@@ -239,20 +239,6 @@ The project produces:
 
 ---
 
-## Screenshots
-
-### Dashboard
-
-Add dashboard screenshot here.
-
-### Notebook
-
-Add notebook screenshot here.
-
-### SQL Output
-
-Add SQL output screenshot here.
-
 ---
 
 ## License

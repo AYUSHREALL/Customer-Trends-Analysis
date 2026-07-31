@@ -263,8 +263,4 @@ MIT License. See [LICENSE](LICENSE).
 
 ## Author
 
-Name: [Add your name]
-
-LinkedIn: [Add your LinkedIn URL]
-
-GitHub: [Add your GitHub URL]
+Name: Madhav
